@@ -2,6 +2,8 @@
 Hollow Tree 14, Rocky Mountains 80517 
 <br/>opt-raccoon@treemail.com
 
+![Image of a Raccoon](raccoon.jpg)
+
 ## Summary
 
 Skilled DevOps Engineer with 3+ years of hands-on experience supporting, automating, and optimizing mission critical deployments in 
